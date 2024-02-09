@@ -165,8 +165,7 @@
                 },
                 {
                     "name": "Timeline",
-                    "path": "timeline",
-                    "disabled": true
+                    "path": "timeline"
                 },
                 {
                     "name": "VirtualScroller",
